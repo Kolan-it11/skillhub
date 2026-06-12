@@ -63,14 +63,14 @@ Gradle
 6. Модель данных
 В проекте реализовано 8 сущностей:
 
-User
-Role
-Course
-Lesson
-Assignment
-Submission
-Enrollment
-Certificate
+User,
+Role,
+Course,
+Lesson,
+Assignment,
+Submission,
+Enrollment,
+Certificate.
 Связи между сущностями реализованы через:
 
 @ManyToOne
