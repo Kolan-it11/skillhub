@@ -71,10 +71,13 @@ Assignment,
 Submission,
 Enrollment,
 Certificate.
+
 Связи между сущностями реализованы через:
 
 @ManyToOne
+
 @ManyToMany
+
 Модель отражает структуру учебного процесса.
 
 6. Реализованный функционал
