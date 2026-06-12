@@ -36,18 +36,30 @@ Repository — взаимодействие с базой данных чере�
 
 4. Технологический стек
 Java 25
+
 Spring Boot 4.1.0
+
 Spring Web
+
 Spring Data JPA
+
 Spring Security
+
 PostgreSQL
+
 Flyway
+
 Spring Boot Actuator
+
 JUnit 5
+
 Mockito
+
 JaCoCo
+
 Gradle
-5. Модель данных
+
+6. Модель данных
 В проекте реализовано 8 сущностей:
 
 User
